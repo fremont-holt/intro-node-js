@@ -49,8 +49,8 @@ This exercise will have you convert some JavaScript written for the browser, so 
 
 - [x] check out to start branch
 - [x] check the README on how to run test (will talk later about that command)
-- [ ] fix and convert the 3 js files in the exercises/modules/browser to Nodejs JavaScript and place them in exercises/modules/node
-- [ ] ensure all tests pass by running test command again
+- [x] fix and convert the 3 js files in the exercises/modules/browser to Nodejs JavaScript and place them in exercises/modules/node
+- [x] ensure all tests pass by running test command again
 
 ### CLI (npm)
 
